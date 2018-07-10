@@ -1,9 +1,0 @@
-c:\users\abdullah.karatekin\Source\Repos\MSMQ-Monitoring\MSMQ-Monitoring\bin\Debug\MSMQ-Monitoring.exe.config
-c:\users\abdullah.karatekin\Source\Repos\MSMQ-Monitoring\MSMQ-Monitoring\bin\Debug\MSMQ-Monitoring.exe
-c:\users\abdullah.karatekin\Source\Repos\MSMQ-Monitoring\MSMQ-Monitoring\bin\Debug\MSMQ-Monitoring.pdb
-c:\users\abdullah.karatekin\Source\Repos\MSMQ-Monitoring\MSMQ-Monitoring\obj\Debug\MSMQ_Monitoring.Form1.resources
-c:\users\abdullah.karatekin\Source\Repos\MSMQ-Monitoring\MSMQ-Monitoring\obj\Debug\MSMQ_Monitoring.Properties.Resources.resources
-c:\users\abdullah.karatekin\Source\Repos\MSMQ-Monitoring\MSMQ-Monitoring\obj\Debug\MSMQ-Monitoring.csproj.GenerateResource.Cache
-c:\users\abdullah.karatekin\Source\Repos\MSMQ-Monitoring\MSMQ-Monitoring\obj\Debug\MSMQ-Monitoring.csproj.CoreCompileInputs.cache
-c:\users\abdullah.karatekin\Source\Repos\MSMQ-Monitoring\MSMQ-Monitoring\obj\Debug\MSMQ-Monitoring.exe
-c:\users\abdullah.karatekin\Source\Repos\MSMQ-Monitoring\MSMQ-Monitoring\obj\Debug\MSMQ-Monitoring.pdb
